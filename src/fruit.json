@@ -1,0 +1,24 @@
+{
+  "poll": {
+    "options": {
+      "apples": {
+        "votes": 20
+      },
+      "oranges": {
+        "votes": 42
+      },
+      "bananas": {
+        "votes": 12
+      },
+      "strawberries": {
+        "votes": 77
+      },
+      "mangos": {
+        "votes": 29
+      },
+      "tomatoes": {
+        "votes": 2
+      }
+    }
+  }
+}
