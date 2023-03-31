@@ -1,6 +1,6 @@
 # IGN Code Foo - Internship Application
 
-This code was written by Riley Meyerkorth.
+This code was written by Riley Meyerkorth in CodeSandBox.
 
 ## What is it?
 
